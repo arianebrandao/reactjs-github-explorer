@@ -1,5 +1,10 @@
+<p align="center">
+  <img alt="Github explorer app" src=".github/app.png" width="100%">
+</p>
+
 ## Github Explorer
-Este app consome a API do Github. Criado no capitulo 01 do Ignite, que é um programa para acelerar a carreira.
+
+Este app consome a API do Github. É mais um projeto desenvolvido durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
 
 ## Tecnologias
 
