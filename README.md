@@ -4,7 +4,7 @@
 
 ## Github Explorer
 
-Este app consome a API do Github. É mais um projeto desenvolvido durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
+Este app consome a API do Github, listando os repositórios de uma organização. É mais um projeto desenvolvido durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
 
 ## Tecnologias
 
